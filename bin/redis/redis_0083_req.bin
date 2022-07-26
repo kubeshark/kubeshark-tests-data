@@ -1,0 +1,11 @@
+*1
+$7
+flushdb
+*2
+$5
+watch
+$3
+key
+*1
+$7
+unwatch

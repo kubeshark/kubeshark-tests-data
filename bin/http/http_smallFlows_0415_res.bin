@@ -1,0 +1,33 @@
+HTTP/1.1 302 Object moved
+Cache-Control: private,no-cache
+Pragma: no-cache
+Content-Length: 684
+Content-Type: text/html
+Expires: Thu, 12 Nov 2009 19:08:30 GMT
+Location: http://www3.smartadserver.com/a/diff/317/562916/show2.asp?562916;88838;0;973506850;M;smartclicktrack=http://clk.atdmt.com/go/155578665/direct;ai.131767702.132508540;ct.1/01?href=
+Server: Microsoft-IIS/7.0
+P3P: CP="BUS CUR CONo FIN IVDo ONL OUR PHY SAMo TELo"
+Set-Cookie: TestIfCookieP=ok; expires=Fri, 26-Nov-2010 23:00:00 GMT; domain=smartadserver.com; path=/
+Set-Cookie: TestIfCookie=ok; domain=smartadserver.com; path=/
+Set-Cookie: ASPSESSIONIDQQBACBRA=OIHNDBCCHCMJHAJAPFDFPKLC; path=/
+Date: Fri, 13 Nov 2009 19:08:30 GMT
+
+<HTML><Head><META HTTP-EQUIV=Refresh CONTENT="0;URL=http://www3.smartadserver.com/a/diff/317/562916/show2.asp?562916;88838;0;973506850;M;smartclicktrack=http://clk.atdmt.com/go/155578665/direct;ai.131767702.132508540;ct.1/01?href="><Script>window.location='http://www3.smartadserver.com/a/diff/317/562916/show2.asp?562916;88838;0;973506850;M;smartclicktrack=http://clk.atdmt.com/go/155578665/direct;ai.131767702.132508540;ct.1/01?href=';</Script></Head><Body> This page was moved <A Href="http://www3.smartadserver.com/a/diff/317/562916/show2.asp?562916;88838;0;973506850;M;smartclicktrack=http://clk.atdmt.com/go/155578665/direct;ai.131767702.132508540;ct.1/01?href=">here</A></HTML>HTTP/1.1 200 OK
+Cache-Control: private
+Pragma: no-cache
+Content-Type: application/x-javascript
+Expires: Mon, 31 Dec 1979 23:00:00 GMT
+Server: Microsoft-IIS/7.0
+P3P: CP="BUS CUR CONo FIN IVDo ONL OUR PHY SAMo TELo"
+Date: Fri, 13 Nov 2009 19:08:30 GMT
+Connection: close
+
+if (screen.width && screen.height) {var jsinfocall=new Image;jsinfocall.src='http://www3.smartadserver.com/a/track/jsinfo.asp?sw='+screen.width+'&sh='+screen.height;}
+
+document.write('<a target="_blank" href="http://clk.atdmt.com/go/155578665/direct;ai.131767702.132508540;ct.1/01?href=http://www3.smartadserver.com/diff/317/562916/go2.asp?562916;88838;0;973506850;M;2793423"><img id="img2793423" src="http://akamai.smartadserver.com/diff/317/562916/Bannières-Kwikpix-234x60.jpg" width=234 height=60 border="0"></a>');
+
+
+
+document.write('\r\n');
+
+

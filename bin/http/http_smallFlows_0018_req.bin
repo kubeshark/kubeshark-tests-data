@@ -1,0 +1,22 @@
+GET /ajax/I.aspx HTTP/1.1
+Host: ca.msn.com
+Connection: keep-alive
+Referer: http://ca.msn.com/
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.237 Safari/534.10
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: MC1=V=3&GUID=49aa5a1406014bda9dc0f9b036037ca6; mh=MSFT; CULTURE=EN-CA; CC=CA; hpsvr=D:blu|W:C|P:W; hpcli=0|W.1.1; MUID=B3C635134EED407A97575E7E44E0F49C; hppr=F:1:110030; Sample=16
+
+GET /blank.aspx?1295981545103 HTTP/1.1
+Host: ca.msn.com
+Connection: keep-alive
+Referer: http://ca.msn.com/
+Accept: application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.237 Safari/534.10
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: MC1=V=3&GUID=49aa5a1406014bda9dc0f9b036037ca6; mh=MSFT; CULTURE=EN-CA; CC=CA; hpsvr=D:blu|W:C|P:W; hpcli=0|W.1.1; MUID=B3C635134EED407A97575E7E44E0F49C; Sample=16; hppr=F:1:110030|I:1:110029
+

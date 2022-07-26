@@ -1,0 +1,18 @@
+HTTP/1.1 302 Found
+Date: Tue, 25 Jan 2011 18:55:47 GMT
+Server: Omniture DC/2.0.0
+X-C: ms-4.3.1
+Expires: Mon, 24 Jan 2011 18:55:47 GMT
+Last-Modified: Wed, 26 Jan 2011 18:55:47 GMT
+Cache-Control: no-cache, no-store, must-revalidate, max-age=0, proxy-revalidate, no-transform, private
+Pragma: no-cache
+ETag: "4D3F1CB3-40BC-5D0FD3C8"
+Vary: *
+P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID PSA OUR IND COM NAV STA"
+Location: http://b.scorecardresearch.com/r?c2=3000001&d.c=gif&d.o=msnportalentertainmentcaen&d.x=4944579&d.t=page&d.u=http%3A%2F%2Fentertainment.ca.msn.com%2Fmovies%2Fgalleries%2Fgallery.aspx%3Fcp-documentid%3D26184969&d.r=http%3A%2F%2Fentertainment.ca.msn.com%2Fmovies%2F
+xserver: www260
+Content-Length: 0
+Keep-Alive: timeout=15
+Connection: Keep-Alive
+Content-Type: text/plain
+

@@ -1,0 +1,47 @@
+GET /fileupload/ HTTP/1.1
+Host: 192.168.57.14:8080
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 5.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: JSESSIONID=969AC5FBD069EE6218EB10513726B244; JSESSIONID=400CC78DF5784F303702CC7F02C6122C
+
+GET /fileupload/ HTTP/1.1
+Host: 192.168.57.14:8080
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 5.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: JSESSIONID=969AC5FBD069EE6218EB10513726B244; JSESSIONID=400CC78DF5784F303702CC7F02C6122C
+
+POST /fileupload/servlet/UploadHandleServlet HTTP/1.1
+Host: 192.168.57.14:8080
+Connection: keep-alive
+Content-Length: 449
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Origin: http://192.168.57.14:8080
+User-Agent: Mozilla/5.0 (Windows NT 5.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryAe47vGj7ybAe6RwO
+Referer: http://192.168.57.14:8080/fileupload/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: JSESSIONID=969AC5FBD069EE6218EB10513726B244; JSESSIONID=400CC78DF5784F303702CC7F02C6122C
+
+------WebKitFormBoundaryAe47vGj7ybAe6RwO
+Content-Disposition: form-data; name="username"
+
+
+------WebKitFormBoundaryAe47vGj7ybAe6RwO
+Content-Disposition: form-data; name="file1"; filename="123.doc(5).exe"
+Content-Type: application/x-msdownload
+
+123456
+------WebKitFormBoundaryAe47vGj7ybAe6RwO
+Content-Disposition: form-data; name="file2"; filename=""
+Content-Type: application/octet-stream
+
+
+------WebKitFormBoundaryAe47vGj7ybAe6RwO--

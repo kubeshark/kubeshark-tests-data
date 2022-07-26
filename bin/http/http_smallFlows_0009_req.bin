@@ -1,0 +1,88 @@
+GET /c.gif?di=210&pi=11654&ps=10274&tp=http://ca.msn.com/ca.msn.com/default.aspxW&rf= HTTP/1.1
+Host: c.msn.com
+Connection: keep-alive
+Referer: http://ca.msn.com/
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.237 Safari/534.10
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: MC1=V=3&GUID=49aa5a1406014bda9dc0f9b036037ca6; mh=MSFT; CULTURE=EN-CA; CC=CA; MUID=B3C635134EED407A97575E7E44E0F49C; ANONCHK=0; Sample=16
+
+GET /c.gif?di=13993&pi=11654&ps=10513&tp=http://lifestyle.ca.msn.com/home-garden/five-things/rd-gallery.aspx&rf=http://ca.msn.com/ HTTP/1.1
+Host: c.msn.com
+Connection: keep-alive
+Referer: http://lifestyle.ca.msn.com/home-garden/five-things/rd-gallery.aspx?cp-documentid=27053613
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.237 Safari/534.10
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: MC1=V=3&GUID=49aa5a1406014bda9dc0f9b036037ca6; mh=MSFT; CULTURE=EN-CA; CC=CA; MUID=B3C635134EED407A97575E7E44E0F49C; ANONCHK=0; Sample=16
+
+GET /c.gif?di=13993&pi=11654&ps=10513&tp=http://lifestyle.ca.msn.com/home-garden/five-things/rd-gallery.aspx&rf=http://lifestyle.ca.msn.com/home-garden/five-things/rd-gallery.aspx?cp-documentid=27053613 HTTP/1.1
+Host: c.msn.com
+Connection: keep-alive
+Referer: http://lifestyle.ca.msn.com/home-garden/five-things/rd-gallery.aspx?cp-documentid=27053613&page=1
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.237 Safari/534.10
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: MC1=V=3&GUID=49aa5a1406014bda9dc0f9b036037ca6; mh=MSFT; CULTURE=EN-CA; CC=CA; MUID=B3C635134EED407A97575E7E44E0F49C; ANONCHK=0; Sample=16; s_cc=true; s_sq=msnportalscp%3D%2526pid%253D5%252520Things%252520To%252520Do%252520with%252520Umbrellas%252520%25257C%252520SCP%2526pidt%253D1%2526oid%253Dhttp%25253A//lifestyle.ca.msn.com/home-garden/five-things/rd-gallery.aspx%25253Fcp-documentid%25253D27053613%252526page%25253D1%2526ot%253DA
+
+GET /c.gif?di=13993&pi=11654&ps=10513&tp=http://lifestyle.ca.msn.com/home-garden/five-things/rd-gallery.aspx&rf=http://lifestyle.ca.msn.com/home-garden/five-things/rd-gallery.aspx?cp-documentid=27053613&page=1 HTTP/1.1
+Host: c.msn.com
+Connection: keep-alive
+Referer: http://lifestyle.ca.msn.com/home-garden/five-things/rd-gallery.aspx?cp-documentid=27053613&page=2
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.237 Safari/534.10
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: MC1=V=3&GUID=49aa5a1406014bda9dc0f9b036037ca6; mh=MSFT; CULTURE=EN-CA; CC=CA; MUID=B3C635134EED407A97575E7E44E0F49C; ANONCHK=0; Sample=16; s_cc=true; s_sq=msnportalscp%3D%2526pid%253DMake%252520Plant%252520Stakes%252520-%2525205%252520Things%252520To%252520Do%252520with%252520Umbrellas%252520%25257C%252520SCP%2526pidt%253D1%2526oid%253Dhttp%25253A//lifestyle.ca.msn.com/home-garden/five-things/rd-gallery.aspx%25253Fcp-documentid%25253D27053613%252526page%25253D2%2526ot%253DA
+
+GET /c.gif?di=13993&pi=11654&ps=10513&tp=http://lifestyle.ca.msn.com/home-garden/five-things/rd-gallery.aspx&rf=http://lifestyle.ca.msn.com/home-garden/five-things/rd-gallery.aspx?cp-documentid=27053613&page=2 HTTP/1.1
+Host: c.msn.com
+Connection: keep-alive
+Referer: http://lifestyle.ca.msn.com/home-garden/five-things/rd-gallery.aspx?cp-documentid=27053613&page=3
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.237 Safari/534.10
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: MC1=V=3&GUID=49aa5a1406014bda9dc0f9b036037ca6; mh=MSFT; CULTURE=EN-CA; CC=CA; MUID=B3C635134EED407A97575E7E44E0F49C; ANONCHK=0; Sample=16; s_cc=true; s_sq=msnportalscp%3D%2526pid%253DCover%252520Your%252520Picnic%252520Food%252520-%2525205%252520Things%252520To%252520Do%252520with%252520Umbrellas%252520%25257C%252520SCP%2526pidt%253D1%2526oid%253Dhttp%25253A//lifestyle.ca.msn.com/home-garden/five-things/rd-gallery.aspx%25253Fcp-documentid%25253D27053613%252526page%25253D3%2526ot%253DA
+
+GET /c.gif?di=13993&pi=11654&ps=10513&tp=http://lifestyle.ca.msn.com/home-garden/five-things/rd-gallery.aspx&rf=http://lifestyle.ca.msn.com/home-garden/five-things/rd-gallery.aspx?cp-documentid=27053613&page=3 HTTP/1.1
+Host: c.msn.com
+Connection: keep-alive
+Referer: http://lifestyle.ca.msn.com/home-garden/five-things/rd-gallery.aspx?cp-documentid=27053613&page=4
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.237 Safari/534.10
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: MC1=V=3&GUID=49aa5a1406014bda9dc0f9b036037ca6; mh=MSFT; CULTURE=EN-CA; CC=CA; MUID=B3C635134EED407A97575E7E44E0F49C; ANONCHK=0; Sample=16; s_cc=true; s_sq=msnportalscp%3D%2526pid%253DMake%252520an%252520Instant%252520Trellis%252520-%2525205%252520Things%252520To%252520Do%252520with%252520Umbrellas%252520%25257C%252520SCP%2526pidt%253D1%2526oid%253Dhttp%25253A//lifestyle.ca.msn.com/home-garden/five-things/rd-gallery.aspx%25253Fcp-documentid%25253D27053613%252526page%25253D4%2526ot%253DA
+
+GET /c.gif?di=14234&pi=56656&ps=10128&tp=http://entertainment.ca.msn.com/movies/&rf=http://lifestyle.ca.msn.com/home-garden/five-things/rd-gallery.aspx?cp-documentid=27053613&page=4 HTTP/1.1
+Host: c.msn.com
+Connection: keep-alive
+Referer: http://entertainment.ca.msn.com/movies/
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.237 Safari/534.10
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: MC1=V=3&GUID=49aa5a1406014bda9dc0f9b036037ca6; mh=MSFT; CULTURE=EN-CA; CC=CA; MUID=B3C635134EED407A97575E7E44E0F49C; ANONCHK=0; Sample=16; s_cc=true; s_sq=msnportalscp%3D%2526pid%253DShield%252520Your%252520Seedlings%252520-%2525205%252520Things%252520To%252520Do%252520with%252520Umbrellas%252520%25257C%252520SCP%2526pidt%253D1%2526oid%253Dhttp%25253A//entertainment.ca.msn.com/movies/%2526ot%253DA
+
+GET /c.gif?di=14234&pi=56656&ps=10128&tp=http://entertainment.ca.msn.com/movies/galleries/gallery.aspx&rf=http://entertainment.ca.msn.com/movies/ HTTP/1.1
+Host: c.msn.com
+Connection: keep-alive
+Referer: http://entertainment.ca.msn.com/movies/galleries/gallery.aspx?cp-documentid=26184969
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.237 Safari/534.10
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: MC1=V=3&GUID=49aa5a1406014bda9dc0f9b036037ca6; mh=MSFT; CULTURE=EN-CA; CC=CA; MUID=B3C635134EED407A97575E7E44E0F49C; ANONCHK=0; Sample=16; s_cc=true; s_sq=msnportalscp%3D%2526pid%253DShield%252520Your%252520Seedlings%252520-%2525205%252520Things%252520To%252520Do%252520with%252520Umbrellas%252520%25257C%252520SCP%2526pidt%253D1%2526oid%253Dhttp%25253A//entertainment.ca.msn.com/movies/%2526ot%253DA
+

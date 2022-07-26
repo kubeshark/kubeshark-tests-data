@@ -1,0 +1,27 @@
+GET /css/bro-ids.css HTTP/1.1
+Host: bro.org
+User-Agent: Mozilla/5.0 (X11; Linux i686; rv:24.0) Gecko/20100101 Firefox/24.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://bro.org/
+Connection: keep-alive
+
+GET /js/hoverIntent.js HTTP/1.1
+Host: bro.org
+User-Agent: Mozilla/5.0 (X11; Linux i686; rv:24.0) Gecko/20100101 Firefox/24.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://bro.org/
+Connection: keep-alive
+
+GET /images/logo-lbl.png HTTP/1.1
+Host: bro.org
+User-Agent: Mozilla/5.0 (X11; Linux i686; rv:24.0) Gecko/20100101 Firefox/24.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://bro.org/
+Connection: keep-alive
+

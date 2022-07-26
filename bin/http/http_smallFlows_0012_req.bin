@@ -1,0 +1,11 @@
+GET /scripts/beacon.dll?c1=2&c2=2128&c3=&c4=&c5=&c6=&c7=http%3A//ca.msn.com/&c8=MSN%20Canada%20-%20The%20home%20of%20world-class%20services%20such%20as%20Hotmail%2C%20Windows%20Live%20Messenger%2C%20and%20News%2C%20Sports%2C%20Financial%20and%20Entertainment&c9=&c10=1680x1050&rn=1295981543432 HTTP/1.1
+Host: beacon.scorecardresearch.com
+Connection: keep-alive
+Referer: http://ca.msn.com/
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.237 Safari/534.10
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: UID=1e691c0e-204.2.160.18-1294170369
+

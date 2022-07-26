@@ -1,0 +1,7 @@
+GET /?url=s1%2E4publishers%2Ecom%2Fskprup%2Easp%3Flang%3DENU%26cty%3Dca%26verutils%3D3%2E0%2E0%2E91%26versem%3Dnone%26cl%3Db%60tr%26data%3D0%2E0%2E700%26go%3D%2200%22 HTTP/1.1
+Accept: */*
+Host: guide.opendns.com
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: fpc10002134856462=9deDp_f4|Cd8mBDNKaa|fses10002134856462=|Cd8mBDNKaa|9deDp_f4|fvis10002134856462=Zj1odHRwJTNBJTJGJTJGZ3VpZGUub3BlbmRucy5jb20lMkZtYWluJTNGdXJsJTNEZmlsZXppbGxhJmI9T3BlbkROUw==|8s7YsYMYT7|8s7YsYMYT7|8s7YsYMYT7|8|8s7YsYMYT7|8s7YsYMYT7; LPUID=42237c1c-7052-bb94-a51e-5ee0813ac52c; __qca=P0-516083227-1290203047391
+

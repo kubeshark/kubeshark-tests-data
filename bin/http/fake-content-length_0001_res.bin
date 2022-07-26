@@ -1,0 +1,6 @@
+HTTP/1.1 200 ok
+Server: simpleHTTP
+Content-Length: 14
+Content-Len: 1
+
+this is sparta

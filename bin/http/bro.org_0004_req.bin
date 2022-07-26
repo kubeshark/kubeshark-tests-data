@@ -1,0 +1,26 @@
+GET /js/jquery.fancybox-1.3.4.pack.js HTTP/1.1
+Host: bro.org
+User-Agent: Mozilla/5.0 (X11; Linux i686; rv:24.0) Gecko/20100101 Firefox/24.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://bro.org/
+Connection: keep-alive
+
+GET /favicon.ico HTTP/1.1
+Host: bro.org
+User-Agent: Mozilla/5.0 (X11; Linux i686; rv:24.0) Gecko/20100101 Firefox/24.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+GET /images/new.png HTTP/1.1
+Host: bro.org
+User-Agent: Mozilla/5.0 (X11; Linux i686; rv:24.0) Gecko/20100101 Firefox/24.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://bro.org/
+Connection: keep-alive
+

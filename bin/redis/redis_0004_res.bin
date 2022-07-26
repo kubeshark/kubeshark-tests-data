@@ -1,0 +1,9 @@
++PONG
+$45
+# Keyspace
+db0:keys=44,expires=0,avg_ttl=0
+
+$45
+# Keyspace
+db0:keys=44,expires=0,avg_ttl=0
+

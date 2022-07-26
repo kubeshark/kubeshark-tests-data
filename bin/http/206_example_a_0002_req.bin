@@ -1,0 +1,12 @@
+GET /~tr-admin/papers/GMU-CS-TR-2010-20.pdf HTTP/1.1
+Host: cs.gmu.edu
+Connection: keep-alive
+Referer: http://cs.gmu.edu/~tr-admin/papers/GMU-CS-TR-2010-20.pdf
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.2; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.224 Safari/534.10
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8
+Accept-Charset: GBK,utf-8;q=0.7,*;q=0.3
+Range: bytes=32768-555522
+If-Range: "56010f-87a03-497781c080540"
+

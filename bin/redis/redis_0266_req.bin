@@ -1,0 +1,14 @@
+*2
+$5
+watch
+$3
+foo
+*1
+$4
+ping
+*1
+$4
+ping
+*1
+$7
+unwatch

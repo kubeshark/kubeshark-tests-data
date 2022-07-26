@@ -1,0 +1,20 @@
+GET /adsense/domains/caf.js HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:20.0) Gecko/20100101 Firefox/20.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.go2go.com/
+Cookie: PREF=ID=e382c84127ec1747:U=a74d6063363e0a13:FF=0:TM=1368727382:LM=1368727608:S=DVloz_-qfYNzQ63-; NID=67=q86hKihhm6C_k5kdD9GUbn6qOzVCkAQhXAN3Zirw_d2M2sgDsKPhL03wV_IWfgzh5KpmkAD6Nkt4fymwDLZFW0dPOj9TuvNEVsU3nlybK9iRfUvcvQTXjcOgfZqA4YwY
+Connection: keep-alive
+
+GET /ads/search/module/ads/1.0/22188168047f35cb447eedec6a0c3c858af138a1/n/domains.js HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:20.0) Gecko/20100101 Firefox/20.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.go2go.com/
+Cookie: PREF=ID=e382c84127ec1747:U=a74d6063363e0a13:FF=0:TM=1368727382:LM=1368727608:S=DVloz_-qfYNzQ63-; NID=67=q86hKihhm6C_k5kdD9GUbn6qOzVCkAQhXAN3Zirw_d2M2sgDsKPhL03wV_IWfgzh5KpmkAD6Nkt4fymwDLZFW0dPOj9TuvNEVsU3nlybK9iRfUvcvQTXjcOgfZqA4YwY
+Connection: keep-alive
+

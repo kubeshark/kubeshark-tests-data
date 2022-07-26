@@ -1,0 +1,15 @@
+*1
+$7
+flushdb
+*3
+$3
+set
+$1
+A
+$7
+A_value
+*2
+$3
+get
+$1
+A

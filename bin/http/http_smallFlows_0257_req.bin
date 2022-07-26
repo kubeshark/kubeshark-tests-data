@@ -1,0 +1,10 @@
+GET /DRN/iview/155578665/direct/01?click= HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, */*
+Referer: http://rad.msn.com/ADSAdClient31.dll?GetAd=&PG=IMSMCA&AP=1007
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; Windows Live Messenger 14.0.8089.0726)
+Host: view.atdmt.com
+Connection: Keep-Alive
+Cookie: AA002=1253922994-10931208; MUID=123BEDEB240C447792D71AD82A79FA5C
+

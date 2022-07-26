@@ -1,0 +1,11 @@
+GET /crossdomain.xml HTTP/1.1
+Host: xxxxxxxxxxx.xxxxxxx.xxx
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+Accept: */*
+Referer: http://xx.xxxxx.xxx/xx?id=xxxxxxx&cb=xxxxxxxxxxxxx&referrer=xxxxxxx.xxx
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: xxxxxxxxxx=xxx
+If-None-Match: "vcCp3Q"
+

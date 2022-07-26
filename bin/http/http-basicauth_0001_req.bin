@@ -1,0 +1,12 @@
+GET /xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/xxx/xxxxxxxxxxxxxxxxxxxx.js HTTP/1.1
+Host: 10.000.000.001:1234
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:32.0) Gecko/20100101 Firefox/32.0
+Accept: */*
+Accept-Language: en-GB,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://10.000.000.001:1234/zzzzzzzzzzzzzzzz/zzzzzzzz/zz/zzzzzzzzz/index.html
+Cookie: zzzzzzzzzzzzzzzzzz=auto; cprelogin=no; cpsession=zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz; langedit=; lang=
+Authorization: Basic dXNlcnJycnI6cGFzc3dvcmRkZGRk
+Connection: keep-alive
+If-Modified-Since: Wed, 29 Oct 2014 01:11:13 GMT
+

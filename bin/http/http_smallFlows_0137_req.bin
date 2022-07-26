@@ -1,0 +1,9 @@
+POST /api/v1.0/pnr?language=EN&plugin=CHROMETB/5.0.0.6906 HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+Referer: http://vancouver.en.craigslist.ca/bnc/mcy/2147013715.html
+User-Agent: Internet Explorer
+Host: pnrws.skype.com
+Content-Length: 13
+Cache-Control: no-cache
+
+q=16048283643

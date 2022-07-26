@@ -1,0 +1,21 @@
+HTTP/1.1 304 Not Modified
+Content-Type: image/jpeg
+Age: 2677
+Date: Tue, 25 Jan 2011 18:53:29 GMT
+Expires: Tue, 25 Jan 2011 19:31:21 GMT
+Connection: keep-alive
+
+HTTP/1.1 304 Not Modified
+Content-Type: image/jpeg
+Age: 2668
+Date: Tue, 25 Jan 2011 18:53:30 GMT
+Expires: Tue, 25 Jan 2011 19:09:03 GMT
+Connection: keep-alive
+
+HTTP/1.1 304 Not Modified
+Content-Type: image/jpeg
+Age: 2666
+Date: Tue, 25 Jan 2011 18:53:30 GMT
+Expires: Tue, 25 Jan 2011 19:31:51 GMT
+Connection: keep-alive
+

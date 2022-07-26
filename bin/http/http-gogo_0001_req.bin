@@ -1,0 +1,29 @@
+GET / HTTP/1.1
+Host: www.gogo.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:20.0) Gecko/20100101 Firefox/20.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cookie: gogoad_eid=GG1351742430192KWK; CNZZDATA3953651=cnzz_eid%3D1238017812-1368735836-http%253A%252F%252Fwww.gogo.com%26ntime%3D1368735836%26cnzz_a%3D0%26retime%3D1368735842557%26sin%3D%26ltime%3D1368735842557%26rtime%3D0
+Connection: keep-alive
+
+GET /tuiguang/bdifm/wbsuceess_a1.aspx HTTP/1.1
+Host: www.gogo.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:20.0) Gecko/20100101 Firefox/20.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.gogo.com/
+Cookie: gogoad_eid=GG1351742430192KWK; CNZZDATA3953651=cnzz_eid%3D1238017812-1368735836-http%253A%252F%252Fwww.gogo.com%26ntime%3D1368735836%26cnzz_a%3D0%26retime%3D1368735842557%26sin%3D%26ltime%3D1368735842557%26rtime%3D0
+Connection: keep-alive
+
+GET /tuiguang/bdifm/Reg0905.aspx HTTP/1.1
+Host: www.gogo.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:20.0) Gecko/20100101 Firefox/20.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.gogo.com/
+Cookie: gogoad_eid=GG1351742430192KWK; CNZZDATA3953651=cnzz_eid%3D1238017812-1368735836-http%253A%252F%252Fwww.gogo.com%26ntime%3D1368735836%26cnzz_a%3D0%26retime%3D1368735842557%26sin%3D%26ltime%3D1368735842557%26rtime%3D0
+Connection: keep-alive
+

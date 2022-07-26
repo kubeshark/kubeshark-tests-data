@@ -1,0 +1,10 @@
+GET /3k83pb3l35Z05T25X0b1e8d74083ebf8212ad.jpg HTTP/1.1
+Host: images.craigslist.org
+Connection: keep-alive
+Referer: http://vancouver.en.craigslist.ca/bnc/mcy/2160652552.html
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.237 Safari/534.10
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+

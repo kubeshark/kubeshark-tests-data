@@ -1,0 +1,9 @@
+GET /domainads/tracking/caf.gif?ts=1368736497112&rid=7950700 HTTP/1.1
+Host: www.gstatic.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:20.0) Gecko/20100101 Firefox/20.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.go2go.com/
+Connection: keep-alive
+

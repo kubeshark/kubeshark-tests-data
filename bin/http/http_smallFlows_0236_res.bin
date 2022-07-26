@@ -1,0 +1,157 @@
+HTTP/1.1 200 OK
+Date: Fri, 13 Nov 2009 19:08:25 GMT
+Server: Microsoft-IIS/6.0
+Content-Type: text/html; Charset=utf-8
+Content-Length: 442
+Cache-Control: no-cache, must-revalidate
+Pragma: no-cache
+Expires: Fri, 01 Jan 1990 00:00:00 GMT
+X-RADID: P6397770-T8082121-C696343
+
+<script type="text/javascript">
+//<![CDATA[
+if(typeof(inDapIF) != "undefined"){parent.dap_Resize(document.body.id, 1, 1);}
+document.write('<a href="http://g.msn.com/0AD0001C/696343.1??PID=6397770&amp;UIT=A&amp;TargetID=8082121&amp;AN=856836216&amp;PG=IMCETC" target="_blank"><img src="http://ads1.msn.com/ads/1/0000000001_000000000000000122701.gif" width="1" height="1" alt="&#46;" border="0" /></a>');
+document.close();
+//]]>
+</script>HTTP/1.1 200 OK
+Date: Fri, 13 Nov 2009 19:08:25 GMT
+Server: Microsoft-IIS/6.0
+Content-Type: text/html; Charset=utf-8
+Content-Length: 572
+Cache-Control: no-cache, must-revalidate
+Pragma: no-cache
+Expires: Fri, 01 Jan 1990 00:00:00 GMT
+X-RADID: P6362263-T8082122-C1610985
+
+<?xml version="1.0" encoding="UTF-8" ?> 
+<ads>
+  <tabad>
+	<image>http://img.icbdr.com/images/ca/js/MSNCAMSGR.png</image>
+	<name>MSN CareerBuilder.ca</name>
+	<type>MSN CareerBuilder.ca</type>
+	<tooltip>MSN CareerBuilder.ca – Find The Perfect Job For You</tooltip> 
+	<contenturl>http://msn.careerbuilder.ca/custom/msn/messenger/msntab.aspx</contenturl> 
+	<hiturl>http://g.msn.com/0AD00002/1610985.1??PID=6362263&amp;UIT=A&amp;TargetID=8082122&amp;AN=1898515031&amp;PG=IMCETD</hiturl> 
+	<siteid>0</siteid> 
+	<notificationid>0</notificationid> 
+  </tabad>
+</ads>HTTP/1.1 200 OK
+Date: Fri, 13 Nov 2009 19:08:25 GMT
+Server: Microsoft-IIS/6.0
+Content-Type: text/html; Charset=utf-8
+Content-Length: 546
+Cache-Control: no-cache, must-revalidate
+Pragma: no-cache
+Expires: Fri, 01 Jan 1990 00:00:00 GMT
+X-RADID: P6537974-T8082124-C1622263
+
+<?xml version="1.0" encoding="UTF-8" ?> 
+<ads>
+  <tabad>
+	<image>http://blstb.msn.com/i/F2/B5D7B4C72FDEE1E49DDF824789E313.png</image>
+	<name>Windows Live</name>
+	<type>Windows Live</type>
+	<tooltip>What's new in Windows Live</tooltip> 
+	<contenturl>http://www.microsoft.com/canada/msn/windows-live-tab/default.aspx</contenturl> 
+	<hiturl>http://g.msn.com/0AD00001/1622263.1??PID=6537974&amp;UIT=A&amp;TargetID=8082124&amp;AN=287326532&amp;PG=IMCETF</hiturl> 
+	<siteid>0</siteid> 
+	<notificationid>0</notificationid> 
+  </tabad>
+</ads>HTTP/1.1 200 OK
+Date: Fri, 13 Nov 2009 19:08:26 GMT
+Server: Microsoft-IIS/6.0
+Content-Type: text/html; Charset=utf-8
+Content-Length: 569
+Cache-Control: no-cache, must-revalidate
+Pragma: no-cache
+Expires: Fri, 01 Jan 1990 00:00:00 GMT
+X-RADID: P6537975-T20207910-C1622265
+
+<?xml version="1.0" encoding="UTF-8" ?> 
+<ads>
+  <tabad>
+	<image>http://www.gowindowslive.com/mobile/tab/v90/tab_image/tab-image.png</image>
+	<name>Windows Live Mobile</name>
+	<type>Windows Live Mobile</type>
+	<tooltip>Windows Live Mobile</tooltip> 
+	<contenturl>http://www.gowindowslive.com/mobile/tab/v90/en/en_mobile-tab-march09.html</contenturl> 
+	<hiturl>http://g.msn.com/0AD00001/1622265.1??PID=6537975&amp;UIT=A&amp;TargetID=20207910&amp;AN=706283618&amp;PG=IMCETH</hiturl> 
+	<siteid>0</siteid> 
+	<notificationid>0</notificationid> 
+  </tabad>
+</ads>HTTP/1.1 200 OK
+Date: Fri, 13 Nov 2009 19:08:26 GMT
+Server: Microsoft-IIS/6.0
+Content-Type: text/html; Charset=utf-8
+Content-Length: 2886
+Cache-Control: no-cache, must-revalidate
+Pragma: no-cache
+Expires: Fri, 01 Jan 1990 00:00:00 GMT
+X-RADID: P5681862-T8082083-C1620632
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Messenger Video Feed</title>
+    <link>http://video.msn.com/?mkt=en-ca</link>
+    <description>Messenger Video Feed: imbot_en-ca_m2534</description>
+    <language>en-ca</language>
+    <copyright>Copyright Microsoft Corporation</copyright>
+    <lastBuildDate>Tues, 10 Oct 2009 00:00:00 GMT</lastBuildDate>
+    <category>MSN_Microsoft</category>
+    <ttl>60</ttl>
+    <item>
+      <title>Most Watched Videos</title>
+      <link>http://edge1.catalog.video.msn.com/videoByMarket.aspx?mk=en-ca&amp;sf=DailyCount&amp;st=1&amp;sd=-1&amp;vs=0&amp;ps=10&amp;title=Most%20Watched%20Videos&amp;p=imbot_en-ca_m2534&amp;responseencoding=rss</link>
+      <description>Most Watched Videos</description>
+      <pubDate>Tues, 1 Sept 2009 00:00:00 GMT</pubDate>
+      <category>MSN_Microsoft</category>
+    </item>
+    <item>
+      <title>Latest Entertainment News</title>
+      <link>http://edge1.catalog.video.msn.com/videoByTag.aspx?mk=en-ca&amp;sd=-1&amp;sf=ActiveStartDate&amp;ns=VC_Supplier&amp;tag=ENCA_splash&amp;vs=0&amp;ps=10&amp;title=Latest%20Celebrity%20News&amp;p=imbot_en-ca_m2534&amp;responseencoding=rss</link>
+      <description>Latest Entertainment News</description>
+      <pubDate>Tues, 1 Sept 2009 00:00:00 GMT</pubDate>
+      <category>MSN_Microsoft</category>
+    </item>
+    <item>
+      <title>Latest Stupid Videos</title>
+      <link>http://edge2.catalog.video.msn.com/videoByTag.aspx?tag=ENCA_stupidvideos%3AENCA_stupidvideos&amp;ns=VC_Source&amp;mk=en-ca&amp;sf=ActiveStartDate&amp;sd=-1&amp;vs=0&amp;ind=&amp;ps=10&amp;rct=&amp;ff=88&amp;title=Latest%20Stupid%20Videos&amp;p=imbot_en-ca_m2534&amp;responseencoding=rss</link>
+      <description>Latest Stupid Videos</description>
+      <pubDate>Tues, 1 Sept 2009 00:00:00 GMT</pubDate>
+      <category>MSN_Microsoft</category>
+    </item>
+    <item>
+      <title>Most Commented Videos</title>
+      <link>http://edge1.catalog.video.msn.com/videoByMarket.aspx?mk=en-ca&amp;sf=DailyCount&amp;st=5&amp;sd=-1&amp;vs=0&amp;ps=5&amp;title=Most%20Commented%20Videos&amp;p=imbot_en-ca_m2534&amp;responseencoding=rss</link>
+      <description>Most Commented Videos</description>
+      <pubDate>Tues, 1 Sept 2009 00:00:00 GMT</pubDate>
+      <category>MSN_Microsoft</category>
+    </item>
+    <item>
+      <title>Most Watched Movie Trailers</title>
+      <link>http://edge1.catalog.video.msn.com/videoByTag.aspx?mk=en-ca&amp;sf=DailyCount&amp;st=1&amp;sd=-1&amp;ns=VC_Supplier&amp;tag=ENCA_Tribute1&amp;vs=0&amp;ps=5&amp;title=Most%20Watched%20Movie%20Trailers&amp;p=imbot_en-ca_m2534&amp;responseencoding=rss</link>
+      <description>Most Watched Movie Trailers</description>
+      <pubDate>Tues, 1 Sept 2009 00:00:00 GMT</pubDate>
+      <category>MSN_Microsoft</category>
+    </item>
+  </channel>
+</rss>HTTP/1.1 200 OK
+Date: Fri, 13 Nov 2009 19:08:37 GMT
+Server: Microsoft-IIS/6.0
+Content-Type: text/html; Charset=utf-8
+Content-Length: 272
+Cache-Control: no-cache, must-revalidate
+Pragma: no-cache
+Expires: Fri, 01 Jan 1990 00:00:00 GMT
+X-RADID: P6632284-T8081540-C1625115
+
+<?xml version="1.0" ?>
+<TEXTAD>
+  <adtext>Download the new Windows Live Messenger 8.5!</adtext>
+  <hiturl>http://messenger.live.com</hiturl>
+ <redirecturl> http://view.atdmt.com/DRN/iview/184649311/direct;wi.1;hi.1/01
+  </redirecturl>
+  <flag>0</flag>
+  </TEXTAD>

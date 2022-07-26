@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Content-Type: application/vnd.google.safebrowsing-update
+X-Content-Type-Options: nosniff
+Date: Tue, 25 Jan 2011 19:09:49 GMT
+Server: Chunked Update Server
+Content-Length: 498
+X-XSS-Protection: 1; mode=block
+
+m:MYLBYQ1-gmAgr1WaezwOLRLrumA=
+n:1814
+i:goog-malware-shavar
+u:safebrowsing-cache.google.com/safebrowsing/rd/ChNnb29nLW1hbHdhcmUtc2hhdmFyEAEY-dkCIKDaAioJ-6wAAP____8_MgX5rAAAAw,du2WJrQ8L_eJIY6-UpLGjsg-rdk=
+u:safebrowsing-cache.google.com/safebrowsing/rd/ChNnb29nLW1hbHdhcmUtc2hhdmFyEAAYufcBILr3ASoFunsAAAEyBbl7AAAB,fJcOu94UXE9RQMbrrb3UjddJDWI=
+i:goog-phish-shavar
+u:safebrowsing-cache.google.com/safebrowsing/rd/ChFnb29nLXBoaXNoLXNoYXZhchAAGIj4ByCM-AcqBQv8AQADMgUI_AEABw,HPLCvUkm8QxKE44xK_0W6sH5Igw=

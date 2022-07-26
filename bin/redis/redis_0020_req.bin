@@ -1,0 +1,31 @@
+*1
+$7
+flushdb
+*2
+$6
+script
+$5
+flush
+*3
+$6
+script
+$4
+load
+$21
+return 'First script'
+*3
+$6
+script
+$4
+load
+$20
+return 'Lost script'
+*4
+$6
+script
+$6
+exists
+$40
+9efd2fe3d60bb30b6431ddf4eea6248fb370b273
+$40
+1f92168922936421c723264ffb66108d66fc6c86

@@ -1,0 +1,28 @@
+HTTP/1.1 302 Found
+Set-Cookie: _auv="g114984~1.1300988804.2820,2.1300991864.0,4.1300991560.300,14569.1300991560.300,14572.1300991864.0,14576.1300988804.2820,^";expires=Sat, 23 Apr 2011 18:37:44 GMT;domain=.fwmrm.net;path=/;
+Set-Cookie: _sc="sg114984.1300988780.1300991864.28800.2820.433,";expires=Sat, 23 Apr 2011 18:37:44 GMT;domain=.fwmrm.net;path=/;
+Location: http://trk.vindicosuite.com/Tracking/V3/Instream/Impression/?0|487|44141|32366|6024|14430|HEADER|10|2361|14|BBEEND|&internalRedirect=true&cb=1342910204
+Content-Length: 0
+Date: Thu, 24 Mar 2011 18:37:44 GMT
+Server: FWS
+P3P: policyref="http://www.freewheel.tv/w3c/p3p.xml",CP="ALL DSP COR NID"
+
+HTTP/1.1 200 OK
+Set-Cookie: _auv="g114984~1.1300988804.2820,2.1300991887.0,4.1300991560.300,14569.1300991560.300,14572.1300991887.0,14576.1300988804.2820,^";expires=Sat, 23 Apr 2011 18:38:07 GMT;domain=.fwmrm.net;path=/;
+Set-Cookie: _sc="sg114984.1300988780.1300991887.28800.2820.456,";expires=Sat, 23 Apr 2011 18:38:07 GMT;domain=.fwmrm.net;path=/;
+Content-Type: text/html
+Content-Length: 0
+Pragma: no-cache
+Date: Thu, 24 Mar 2011 18:38:07 GMT
+Server: FWS
+P3P: policyref="http://www.freewheel.tv/w3c/p3p.xml",CP="ALL DSP COR NID"
+
+HTTP/1.1 302 Found
+Set-Cookie: _auv="g114984~1.1300988804.2820,2.1300991894.0,4.1300991560.300,14569.1300991560.300,14572.1300991894.0,14576.1300988804.2820,^";expires=Sat, 23 Apr 2011 18:38:14 GMT;domain=.fwmrm.net;path=/;
+Set-Cookie: _sc="sg114984.1300988780.1300991894.28800.2820.456,";expires=Sat, 23 Apr 2011 18:38:14 GMT;domain=.fwmrm.net;path=/;
+Location: http://trk.vindicosuite.com/Tracking/V3/Instream/Impression/?0|487|43978|32437|5963|14430|HEADER|10|1765|14|BBEEND|&internalRedirect=true&cb=
+Content-Length: 0
+Date: Thu, 24 Mar 2011 18:38:13 GMT
+Server: FWS
+P3P: policyref="http://www.freewheel.tv/w3c/p3p.xml",CP="ALL DSP COR NID"
+

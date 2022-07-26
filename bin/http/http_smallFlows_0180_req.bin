@@ -1,0 +1,5 @@
+GET /ui/0/5.0.0.156./en/getlatestversion?ver=5.0.0.156&uhash=11654754b2fde14f06c6f2a4ed0499b06&google-chrome:notoffered;ineligiblebrowser HTTP/1.1
+User-Agent: Skype™ 5.0
+Host: ui.skype.com
+Cache-Control: no-cache
+

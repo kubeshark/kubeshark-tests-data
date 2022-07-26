@@ -1,0 +1,6 @@
+GET /exploit.html HTTP/1.1
+Host:[0000:0000:0000:0000:0000:0000:0000:0002]
+User-Agent: Alice
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+

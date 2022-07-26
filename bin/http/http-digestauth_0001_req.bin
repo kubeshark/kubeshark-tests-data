@@ -1,0 +1,8 @@
+GET /xxxxxxxxxxxxxxxxxxxxxxxxxxx/xxxx/xxxxxxxxxxxxxxxxxxxxxxxx HTTP/1.1
+User-Agent: xxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxx: PRODUCT=xxxxxxxxxx;xxxxxxxxxx=xxxxxxxxx;xx=xxxxx;xxxxxxxxx;xxxxxxxxxx
+Authorization: Digest username="user12345678@domain.xxxx",realm="xxxxxxx",nonce="xxxxxxxxxxxxxxxx",uri="/xxxxxxxxxxxxxxxxxxxxxxxxxxx/xxxx/xxxxxxxxxxxxxxxxxxxxxxxx",algorithm="MD5",cnonce="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",nc=00000003,qop="auth",response="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",opaque=""
+Host: xxxxxxx.xxxxxxxxxxx.xxx
+Cache-Control: no-store,no-cache
+Pragma: no-cache
+

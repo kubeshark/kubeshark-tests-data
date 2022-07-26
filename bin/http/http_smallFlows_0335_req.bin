@@ -1,0 +1,66 @@
+GET /image.aspx?uuid=72595300-2c2e-4ae1-9517-648122b060cb&w=92&h=69&so=4 HTTP/1.1
+Host: img1.catalog.video.msn.com
+Connection: keep-alive
+Referer: http://img.widgets.video.s-msn.com/flash/gallerywidget/1_0/gallerywidget.swf
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.237 Safari/534.10
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: MC1=V=3&GUID=49aa5a1406014bda9dc0f9b036037ca6; mh=MSFT; CULTURE=EN-CA; CC=CA; MUID=B3C635134EED407A97575E7E44E0F49C; Sample=16; s_cc=true; s_sq=msnportalscp%3D%2526pid%253DShield%252520Your%252520Seedlings%252520-%2525205%252520Things%252520To%252520Do%252520with%252520Umbrellas%252520%25257C%252520SCP%2526pidt%253D1%2526oid%253Dhttp%25253A//entertainment.ca.msn.com/movies/%2526ot%253DA
+
+GET /image.aspx?uuid=9ea11f98-3724-4909-9732-bb0c5e79515a&w=52&h=39&so=4 HTTP/1.1
+Host: img1.catalog.video.msn.com
+Connection: keep-alive
+Referer: http://img.widgets.video.s-msn.com/flash/inline.swf
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.237 Safari/534.10
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: MC1=V=3&GUID=49aa5a1406014bda9dc0f9b036037ca6; mh=MSFT; CULTURE=EN-CA; CC=CA; MUID=B3C635134EED407A97575E7E44E0F49C; Sample=16; s_cc=true; s_sq=msnportalscp%3D%2526pid%253DShield%252520Your%252520Seedlings%252520-%2525205%252520Things%252520To%252520Do%252520with%252520Umbrellas%252520%25257C%252520SCP%2526pidt%253D1%2526oid%253Dhttp%25253A//entertainment.ca.msn.com/movies/%2526ot%253DA
+
+GET /image.aspx?uuid=2539d0a3-9d5e-4046-b543-8562a6b15783&w=112&h=84&so=4 HTTP/1.1
+Host: img1.catalog.video.msn.com
+Connection: keep-alive
+Referer: http://img.widgets.video.s-msn.com/flash/inline.swf
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.237 Safari/534.10
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: MC1=V=3&GUID=49aa5a1406014bda9dc0f9b036037ca6; mh=MSFT; CULTURE=EN-CA; CC=CA; MUID=B3C635134EED407A97575E7E44E0F49C; Sample=16; s_cc=true; s_sq=msnportalscp%3D%2526pid%253DShield%252520Your%252520Seedlings%252520-%2525205%252520Things%252520To%252520Do%252520with%252520Umbrellas%252520%25257C%252520SCP%2526pidt%253D1%2526oid%253Dhttp%25253A//entertainment.ca.msn.com/movies/%2526ot%253DA
+
+GET /image.aspx?uuid=6a7c231b-3f9d-40f6-bf0e-66a48459a471&w=112&h=84&so=4 HTTP/1.1
+Host: img1.catalog.video.msn.com
+Connection: keep-alive
+Referer: http://img.widgets.video.s-msn.com/flash/inline.swf
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.237 Safari/534.10
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: MC1=V=3&GUID=49aa5a1406014bda9dc0f9b036037ca6; mh=MSFT; CULTURE=EN-CA; CC=CA; MUID=B3C635134EED407A97575E7E44E0F49C; Sample=16; s_cc=true; s_sq=msnportalscp%3D%2526pid%253DShield%252520Your%252520Seedlings%252520-%2525205%252520Things%252520To%252520Do%252520with%252520Umbrellas%252520%25257C%252520SCP%2526pidt%253D1%2526oid%253Dhttp%25253A//entertainment.ca.msn.com/movies/%2526ot%253DA
+
+GET /image.aspx?uuid=b3a145e4-c4c6-4162-97ed-87988e3be123&w=112&h=84&so=4 HTTP/1.1
+Host: img1.catalog.video.msn.com
+Connection: keep-alive
+Referer: http://img.widgets.video.s-msn.com/flash/inline.swf
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.237 Safari/534.10
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: MC1=V=3&GUID=49aa5a1406014bda9dc0f9b036037ca6; mh=MSFT; CULTURE=EN-CA; CC=CA; MUID=B3C635134EED407A97575E7E44E0F49C; Sample=16; s_cc=true; s_sq=msnportalscp%3D%2526pid%253DShield%252520Your%252520Seedlings%252520-%2525205%252520Things%252520To%252520Do%252520with%252520Umbrellas%252520%25257C%252520SCP%2526pidt%253D1%2526oid%253Dhttp%25253A//entertainment.ca.msn.com/movies/%2526ot%253DA
+
+GET /image.aspx?uuid=51557d35-a15e-468f-8767-79a69f754a91&w=112&h=84&so=4 HTTP/1.1
+Host: img1.catalog.video.msn.com
+Connection: keep-alive
+Referer: http://img.widgets.video.s-msn.com/flash/inline.swf
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.237 Safari/534.10
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: MC1=V=3&GUID=49aa5a1406014bda9dc0f9b036037ca6; mh=MSFT; CULTURE=EN-CA; CC=CA; MUID=B3C635134EED407A97575E7E44E0F49C; Sample=16; s_cc=true; s_sq=msnportalscp%3D%2526pid%253DShield%252520Your%252520Seedlings%252520-%2525205%252520Things%252520To%252520Do%252520with%252520Umbrellas%252520%25257C%252520SCP%2526pidt%253D1%2526oid%253Dhttp%25253A//entertainment.ca.msn.com/movies/%2526ot%253DA
+

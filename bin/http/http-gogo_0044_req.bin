@@ -1,0 +1,28 @@
+GET /beacon.js HTTP/1.1
+Host: b.scorecardresearch.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:20.0) Gecko/20100101 Firefox/20.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.go2go.com/top.php?d=go2go.com
+Connection: keep-alive
+
+GET /b?c1=8&c2=6035626&c3=100111111&ns__t=1368736497804&ns_c=UTF-8&c8=popup%20management&c7=http%3A%2F%2Fwww.go2go.com%2Ftop.php%3Fd%3Dgo2go.com&c9=http%3A%2F%2Fwww.go2go.com%2F HTTP/1.1
+Host: b.scorecardresearch.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:20.0) Gecko/20100101 Firefox/20.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.go2go.com/top.php?d=go2go.com
+Connection: keep-alive
+
+GET /b2?c1=8&c2=6035626&c3=100111111&ns__t=1368736497804&ns_c=UTF-8&c8=popup%20management&c7=http%3A%2F%2Fwww.go2go.com%2Ftop.php%3Fd%3Dgo2go.com&c9=http%3A%2F%2Fwww.go2go.com%2F HTTP/1.1
+Host: b.scorecardresearch.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:20.0) Gecko/20100101 Firefox/20.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.go2go.com/top.php?d=go2go.com
+Cookie: UID=1b9e2d7a-69.31.106.33-1368736492; UIDR=1368736492
+Connection: keep-alive
+

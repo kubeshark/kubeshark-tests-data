@@ -1,0 +1,10 @@
+GET /9.gif?abc=1&rnd=1704929078 HTTP/1.1
+Host: cnzz.mmstat.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:20.0) Gecko/20100101 Firefox/20.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.gogo.com/
+Cookie: cna=XS4cCjq3ihECAWvblKWCJjFs; sc=6be1c4c3; atpsid=3738c7e242020d1a338abc0c_1368735837
+Connection: keep-alive
+

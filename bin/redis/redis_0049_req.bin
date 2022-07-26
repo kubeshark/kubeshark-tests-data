@@ -1,0 +1,22 @@
+*1
+$7
+flushdb
+*2
+$6
+script
+$5
+flush
+*3
+$6
+script
+$4
+load
+$22
+return 'Unique script'
+*3
+$6
+script
+$6
+exists
+$40
+586deab7f5d7baecfdab4753abeff059e87bebe0

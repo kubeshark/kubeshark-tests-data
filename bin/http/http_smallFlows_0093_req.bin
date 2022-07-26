@@ -1,0 +1,11 @@
+GET /image.aspx?uuid=5fa5ed53-83e1-447a-b9c9-18e03b732462&w=92&h=69&so=4 HTTP/1.1
+Host: img4.catalog.video.msn.com
+Connection: keep-alive
+Referer: http://img.widgets.video.s-msn.com/flash/gallerywidget/1_0/gallerywidget.swf
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.237 Safari/534.10
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: MC1=V=3&GUID=49aa5a1406014bda9dc0f9b036037ca6; mh=MSFT; CULTURE=EN-CA; CC=CA; MUID=B3C635134EED407A97575E7E44E0F49C; Sample=16; s_cc=true; s_sq=%5B%5BB%5D%5D
+

@@ -1,0 +1,6 @@
+GET HTTP/1.1
+123456789012345678901234567890User-Agent: Wget/1.14 (darwin12.2.0)
+Accept: */*
+Host: bro.org
+Connection: Keep-Alive
+

@@ -1,0 +1,9 @@
+GET /pki/mscorp/crl/mswww(5).crl HTTP/1.1
+Cache-Control: max-age = 900
+Connection: Keep-Alive
+Accept: */*
+If-Modified-Since: Fri, 17 Dec 2010 19:39:40 GMT
+If-None-Match: "0662d25229ecb1:0"
+User-Agent: Microsoft-CryptoAPI/6.1
+Host: mscrl.microsoft.com
+

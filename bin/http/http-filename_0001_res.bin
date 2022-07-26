@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 16 Oct 2015 13:05:35 GMT
+Content-Type: application/octet-stream; charset=UTF-8
+Content-Length: 191
+Connection: keep-alive
+Content-Disposition: attachment; filename="test.json"
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Credentials: true
+
+{
+  "Content-Disposition": "attachment; filename=\"test.json\"", 
+  "Content-Length": "191", 
+  "Content-Type": [
+    "application/json", 
+    "application/octet-stream; charset=UTF-8"
+  ]
+}

@@ -1,0 +1,13 @@
+*3
+$9
+subscribe
+$10
+mychannel1
+:1
+*3
+$7
+message
+$10
+mychannel1
+$5
+hello

@@ -1,0 +1,12 @@
+*3
+$6
+client
+$5
+pause
+$4
+5000
+*2
+$5
+watch
+$3
+foo

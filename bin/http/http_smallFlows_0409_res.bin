@@ -1,0 +1,7 @@
+HTTP/1.1 304 Not Modified
+Content-Type: image/png
+Last-Modified: Wed, 11 Nov 2009 20:55:53 GMT
+ETag: "60be6a5b1163ca1:3d4"
+Date: Fri, 13 Nov 2009 19:08:26 GMT
+Connection: keep-alive
+

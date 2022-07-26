@@ -1,0 +1,5 @@
+GET /response-headers?Content-Type=application/octet-stream;%20charset=UTF-8&Content-Disposition=attachment;%20filename%3d%22test.json%22 HTTP/1.1
+Host: httpbin.org
+User-Agent: curl/7.45.0
+Accept: */*
+

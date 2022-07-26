@@ -1,0 +1,8 @@
+GET /msdownload/update/software/uprl/2011/01/windows-kb890830-v3.15-delta_7d99803eaf3b6e8dfa3581348bc694089579d25a.exe HTTP/1.1
+Accept: */*
+Accept-Encoding: identity
+Range: bytes=816896-1022919
+User-Agent: Microsoft BITS/6.6
+Host: au.download.windowsupdate.com
+Connection: Keep-Alive
+

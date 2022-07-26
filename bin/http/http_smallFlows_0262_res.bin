@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Cache-Control: private, no-cache="Set-Cookie"
+Content-Length: 0
+Content-Type: image/gif
+Expires: Fri, 13 Nov 2009 19:13:31 GMT
+Server: Microsoft-IIS/7.0
+P3P: CP="BUS CUR CONo FIN IVDo ONL OUR PHY SAMo TELo"
+Date: Fri, 13 Nov 2009 19:08:31 GMT
+

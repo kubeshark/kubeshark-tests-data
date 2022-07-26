@@ -1,0 +1,7 @@
+HTTP/1.1 304 Not Modified
+Content-Type: image/jpeg
+Age: 10184
+Date: Tue, 25 Jan 2011 18:55:09 GMT
+Expires: Tue, 25 Jan 2011 19:51:13 GMT
+Connection: keep-alive
+

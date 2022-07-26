@@ -1,0 +1,10 @@
+HTTP/1.1 302 Found
+Content-Type: text/html; charset=iso-8859-1
+Connection: close
+Location: http://kelowna.en.craigslist.ca/
+Transfer-Encoding: chunked
+Date: Tue, 25 Jan 2011 19:06:00 GMT
+Server: Apache
+
+0
+

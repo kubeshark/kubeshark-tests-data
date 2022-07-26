@@ -1,0 +1,39 @@
+GET / HTTP/1.1
+Host: 192.168.2.21:8000
+User-Agent: curl/7.54.0
+Accept: */*
+h0:header value that doesn't mean anything
+h42:header value that doesn't mean anything
+h85:header value that doesn't mean anything
+h128:header value that doesn't mean anything
+h172:header value that doesn't mean anything
+h216:header value that doesn't mean anything
+h260:header value that doesn't mean anything
+h304:header value that doesn't mean anything
+h348:header value that doesn't mean anything
+h392:header value that doesn't mean anything
+h436:header value that doesn't mean anything
+h480:header value that doesn't mean anything
+h524:header value that doesn't mean anything
+h568:header value that doesn't mean anything
+h612:header value that doesn't mean anything
+h656:header value that doesn't mean anything
+h700:header value that doesn't mean anything
+h744:header value that doesn't mean anything
+h788:header value that doesn't mean anything
+h832:header value that doesn't mean anything
+h876:header value that doesn't mean anything
+h920:header value that doesn't mean anything
+h964:header value that doesn't mean anything
+h1008:header value that doesn't mean anything
+h1053:header value that doesn't mean anything
+h1098:header value that doesn't mean anything
+h1143:header value that doesn't mean anything
+h1188:header value that doesn't mean anything
+h1233:header value that doesn't mean anything
+h1278:header value that doesn't mean anything
+h1323:header value that doesn't mean anything
+h1368:header value that doesn't mean anything
+h1413:header value that doesn't mean anything
+h1458:header value that doesn't mean anything
+

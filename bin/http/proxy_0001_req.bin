@@ -1,0 +1,6 @@
+GET HTTP://bro.org/ HTTP/1.1
+User-Agent: curl/7.33.0
+Host: bro.org
+Accept: */*
+Proxy-Connection: Keep-Alive
+

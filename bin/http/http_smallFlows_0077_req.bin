@@ -1,0 +1,44 @@
+GET /resource.aspx?resources=gallery&gmts=gmt&mkt=&configCsid=ENCA_MSN&configName=ENCA_TabbedGallery&responseEncoding=json&callbackName=Msn.Video.JavascriptApi.onComplete&cd=1 HTTP/1.1
+Host: img.widgets.video.s-msn.com
+Connection: keep-alive
+Referer: http://lifestyle.ca.msn.com/home-garden/five-things/rd-gallery.aspx?cp-documentid=27053613
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.237 Safari/534.10
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+If-Modified-Since: Tue, 25 Jan 2011 17:31:32 GMT
+
+GET /flash/inline.swf HTTP/1.1
+Host: img.widgets.video.s-msn.com
+Connection: keep-alive
+Referer: http://lifestyle.ca.msn.com/home-garden/five-things/rd-gallery.aspx?cp-documentid=27053613
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.237 Safari/534.10
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+If-Modified-Since: Fri, 14 Jan 2011 00:49:07 GMT
+
+GET /flash/fonts/Tahoma_En.swf HTTP/1.1
+Host: img.widgets.video.s-msn.com
+Connection: keep-alive
+Referer: http://img.widgets.video.s-msn.com/flash/gallerywidget/1_0/gallerywidget.swf
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.237 Safari/534.10
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+If-Modified-Since: Fri, 14 Jan 2011 00:48:40 GMT
+
+GET /flash/gallerywidget/1_0/images/search_button.png HTTP/1.1
+Host: img.widgets.video.s-msn.com
+Connection: keep-alive
+Referer: http://img.widgets.video.s-msn.com/flash/gallerywidget/1_0/gallerywidget.swf
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.237 Safari/534.10
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+If-Modified-Since: Thu, 22 Jul 2010 20:17:24 GMT
+

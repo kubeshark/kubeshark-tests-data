@@ -1,0 +1,15 @@
+HTTP/1.0 408 Request Time-out
+Server: AkamaiGHost
+Mime-Version: 1.0
+Date: Tue, 25 Jan 2011 18:53:58 GMT
+Content-Type: text/html
+Content-Length: 218
+Expires: Tue, 25 Jan 2011 18:53:58 GMT
+
+<HTML><HEAD>
+<TITLE>Request Timeout</TITLE>
+</HEAD><BODY>
+<H1>Request Timeout</H1>
+The server timed out while waiting for the browser's request.<P>
+Reference&#32;&#35;2&#46;9fcf6cce&#46;1295981638&#46;0
+</BODY></HTML>

@@ -1,0 +1,11 @@
+HTTP/1.1 302 Moved Temporarily
+Server: Apache-Coyote/1.1
+Cache-Control: no-store
+Pragma: no-cache
+Expires: 0
+Set-Cookie: mojo3=12308:30721/17174:26109/12309:2764/9609:2042/13001:3722/15017:2304; expires=Fri, 25-Jan-2013 6:27:57 GMT; path=/; domain=.mediaplex.com;
+P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR PSAo PSDo OUR IND UNI COM NAV"
+Location: http://img.mediaplex.com/content/0/12308/120034/1326513_300x250_new_year_v130_trend_en_c02.js?mpck=altfarm.mediaplex.com%2Fad%2Fck%2F12308-120034-30721-0%3Fmpt%3D%5B1627390274ER%5D&mpt=[1627390274ER]&mpvc=
+Content-Length: 0
+Date: Tue, 25 Jan 2011 18:52:35 GMT
+

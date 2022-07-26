@@ -1,0 +1,30 @@
+GET /_0nwenca0/00/00?http://ca.msn.com/&&ps=10274&pi=11654&di=210&gt1=&ce=1&cm=wrapper%3EticklerI&hl=IEAKTickler%20Prompt%20shown&su=http%3A%2F%2Fca.msn.com%2Fca.msn.com%2Fdefault.aspxW HTTP/1.1
+Host: g.msn.ca
+Connection: keep-alive
+Referer: http://ca.msn.com/
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.237 Safari/534.10
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+GET /_0nwenca0/00/00?http://ca.msn.com/&&ps=10274&pi=11654&di=210&gt1=&ce=4&cm=wrapper%3Epage%3Econtent%3Eareal%3Einfopane&hl=Woman%20falls%20from%20hotel&su=http%3A%2F%2Fca.msn.com%2Fca.msn.com%2Fdefault.aspxW HTTP/1.1
+Host: g.msn.ca
+Connection: keep-alive
+Referer: http://ca.msn.com/
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.237 Safari/534.10
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+GET /_0nwenca0/00/00?http://lifestyle.ca.msn.com/home-garden/five-things/rd-gallery.aspx?cp-documentid=27053613&&ps=10274&pi=11654&di=210&gt1=&ce=3&cm=wrapper%3Epage%3Econtent%3Eareal%3Elife&hl=5%20new%20uses%20for%20umbrellas&su=http%3A%2F%2Fca.msn.com%2Fca.msn.com%2Fdefault.aspxW HTTP/1.1
+Host: g.msn.ca
+Connection: keep-alive
+Referer: http://ca.msn.com/
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.237 Safari/534.10
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+

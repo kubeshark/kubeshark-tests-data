@@ -1,0 +1,22 @@
+GET /BurstingCachedScripts//SBTemplates_4_5_18/StdBanner.js?ai=4422847 HTTP/1.1
+Host: ds.serving-sys.com
+Connection: keep-alive
+Referer: http://lifestyle.ca.msn.com/home-garden/five-things/rd-gallery.aspx?cp-documentid=27053613&page=2
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.237 Safari/534.10
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: u3=1; C4=; A3=gPeaa8Uc07Hs00001fBVAaaAW04m400002fUFFa3jd02WG00001gTO.aaC109AI00001gwZSa88U0cdq00001; B3=84bg0000000001sP83cq0000000001sR7dQq0000000001sB8gdp0000000001sW7FOx0000000002sW; u2=c1f99b5f-247e-4b67-8dd3-1a6b5c7387153G208g
+
+GET /BurstingRes///Site-24409/Type-2/bfe9a13e-a7b4-40d5-adfc-40c2661feda9.swf HTTP/1.1
+Host: ds.serving-sys.com
+Connection: keep-alive
+Referer: http://lifestyle.ca.msn.com/home-garden/five-things/rd-gallery.aspx?cp-documentid=27053613&page=2
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.237 Safari/534.10
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: u3=1; C4=; A3=gPeaa8Uc07Hs00001fBVAaaAW04m400002fUFFa3jd02WG00001gTO.aaC109AI00001gwZSa88U0cdq00001; B3=84bg0000000001sP83cq0000000001sR7dQq0000000001sB8gdp0000000001sW7FOx0000000002sW; u2=c1f99b5f-247e-4b67-8dd3-1a6b5c7387153G208g
+

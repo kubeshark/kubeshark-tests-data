@@ -1,0 +1,33 @@
+GET /ad/l/1?last=0&ct=0&metr=127&s=b019&t=1300988780203466&adid=364838&reid=180527&arid=2&auid=&cn=defaultImpression&et=i&_cc=364838,180525,,12028.12150.,1300988780,1&tpos=1260&iw=&uxnw=&uxss=&uxct=&init=1&cr=http%3A//trk.vindicosuite.com/Tracking/V3/Instream/Impression/%3F0%7C487%7C44141%7C32366%7C6024%7C14430%7CHEADER%7C10%7C2361%7C14%7CBBEEND%7C%26internalRedirect%3Dtrue%26cb%3D1342910204 HTTP/1.1
+Host: 140cc.v.fwmrm.net
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.2.15) Gecko/20110303 Firefox/3.6.15
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 115
+Connection: keep-alive
+Cookie: NSC_twmbewjq3.gxnsn.ofu=ffffffff09097e2045525d5f4f58455e445a4a423208; _sid="b019_5587704262562959873"; _uid="b019_5587704262562959863"; _vr="1300988780..257916~281665~281666~281670~281671~281675~281676~302615~302805~317942~332824~347725~348679~364432~364838~364862~364926~365730~370140~370416~373712~,"; _cph="1300988780.490.1.1,"; _sc="sg114984.1300988780.1300991857.28800.2820.433,"; _wr="g114984"; _av="1300988791.373710.1440,"; _auv="g114984~1.1300988804.2820,2.1300991857.0,4.1300991560.300,14569.1300991560.300,14572.1300991857.0,14576.1300988804.2820,^"; NSC_okcbewjq1.gxnsn.ofu=ffffffff09091c3145525d5f4f58455e445a4a423208; NSC_twmbewjq4.gxnsn.ofu=ffffffff09097e4145525d5f4f58455e445a4a423208; NSC_ozdbewjq3.gxnsn.ofu=ffffffff09091f3a45525d5f4f58455e445a4a423209
+
+GET /ad/l/1?metr=127&ct=8&et=i&cn=thirdQuartile&s=b019&t=1300988780203466&adid=364838&reid=180527&arid=2&iw=&uxnw=&uxss=&uxct= HTTP/1.1
+Host: 140cc.v.fwmrm.net
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.2.15) Gecko/20110303 Firefox/3.6.15
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 115
+Connection: keep-alive
+Cookie: NSC_twmbewjq3.gxnsn.ofu=ffffffff09097e2045525d5f4f58455e445a4a423208; _sid="b019_5587704262562959873"; _uid="b019_5587704262562959863"; _vr="1300988780..257916~281665~281666~281670~281671~281675~281676~302615~302805~317942~332824~347725~348679~364432~364838~364862~364926~365730~370140~370416~373712~,"; _cph="1300988780.490.1.1,"; _sc="sg114984.1300988780.1300991879.28800.2820.448,"; _wr="g114984"; _av="1300988791.373710.1440,"; _auv="g114984~1.1300988804.2820,2.1300991879.0,4.1300991560.300,14569.1300991560.300,14572.1300991879.0,14576.1300988804.2820,^"; NSC_okcbewjq1.gxnsn.ofu=ffffffff09091c3145525d5f4f58455e445a4a423208; NSC_twmbewjq4.gxnsn.ofu=ffffffff09097e4145525d5f4f58455e445a4a423208; NSC_ozdbewjq3.gxnsn.ofu=ffffffff09091f3a45525d5f4f58455e445a4a423209
+
+GET /ad/l/1?last=0&ct=0&metr=127&s=b019&t=1300988780203466&adid=365730&reid=176934&arid=1&auid=&cn=defaultImpression&et=i&_cc=365730,176933,,12028.12150.,1300988780,1&tpos=1260&iw=&uxnw=&uxss=&uxct=&init=1&cr=http%3A//trk.vindicosuite.com/Tracking/V3/Instream/Impression/%3F0%7C487%7C43978%7C32437%7C5963%7C14430%7CHEADER%7C10%7C1765%7C14%7CBBEEND%7C%26internalRedirect%3Dtrue%26cb%3D HTTP/1.1
+Host: 140cc.v.fwmrm.net
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.2.15) Gecko/20110303 Firefox/3.6.15
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 115
+Connection: keep-alive
+Cookie: NSC_twmbewjq3.gxnsn.ofu=ffffffff09097e2045525d5f4f58455e445a4a423208; _sid="b019_5587704262562959873"; _uid="b019_5587704262562959863"; _vr="1300988780..257916~281665~281666~281670~281671~281675~281676~302615~302805~317942~332824~347725~348679~364432~364838~364862~364926~365730~370140~370416~373712~,"; _cph="1300988780.490.1.1,"; _sc="sg114984.1300988780.1300991894.28800.2820.456,"; _wr="g114984"; _av="1300988791.373710.1440,"; _auv="g114984~1.1300988804.2820,2.1300991894.0,4.1300991560.300,14569.1300991560.300,14572.1300991894.0,14576.1300988804.2820,^"; NSC_okcbewjq1.gxnsn.ofu=ffffffff09091c3145525d5f4f58455e445a4a423208; NSC_twmbewjq4.gxnsn.ofu=ffffffff09097e4145525d5f4f58455e445a4a423208; NSC_ozdbewjq3.gxnsn.ofu=ffffffff09091f3a45525d5f4f58455e445a4a423209
+

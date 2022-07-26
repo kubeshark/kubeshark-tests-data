@@ -1,0 +1,15 @@
+GET /minitri.flg HTTP/1.1
+Cache-Control: max-age=0, no-cache, max-stale=0, min-fresh=1000
+Connection: Keep-Alive
+Accept: */*
+Host: liveupdate.symantecliveupdate.com
+User-Agent: NIS/19.9.1.14 MID/{gRPGbPdjZI9qBdsNO/32ukAorrc} SID//EKVUQAAAAA LUE/1.8.2.10 (Windows;6.1;SP1.0;X64;ENU)
+
+GET /streaming/norton$202009$20streaming$20virus$20definitions_1.0_symalllanguages_livetri.zip HTTP/1.1
+Cache-Control: max-age=0, no-cache, max-stale=0, min-fresh=1000
+Connection: Keep-Alive
+Accept: */*
+Host: liveupdate.symantecliveupdate.com
+If-Modified-Since: Thu, 16 May 2013 20:22:26 GMT
+User-Agent: NIS/19.9.1.14 MID/{gRPGbPdjZI9qBdsNO/32ukAorrc} SID//EKVUQAAAAA
+
