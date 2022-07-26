@@ -1,0 +1,1 @@
+This repository contains data files (mainly, TCP/IP traffic dump files in PCAP format) used as part of *acceptance tests-suite* for [Mizu - Kubernetes API traffic viewer](https://github.com/up9inc/mizu)
