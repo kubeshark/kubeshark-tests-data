@@ -1,0 +1,1 @@
+[{"timestamp":{"seconds":-6795364579,"nanos":129000000},"id":"AAAAAAAAAAAAAAAAAAAAAA==","dissected_protocol":12,"local_peer":{},"remote_peer":{},"payload":{"Payload":{"Kafka":{"request":{"size":65,"api_key_name":"Fetch","api_key":1,"api_version":1,"correlation_id":3,"client_id":"test"},"response":{"size":49,"correlation_id":3}}}}}]

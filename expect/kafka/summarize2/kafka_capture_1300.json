@@ -1,0 +1,1 @@
+[{"timestamp":{"seconds":-6795364579,"nanos":129000000},"id":"AAAAAAAAAAAAAAAAAAAAAA==","dissected_protocol":12,"local_peer":{},"remote_peer":{},"payload":{"Payload":{"Kafka":{"request":{"size":86,"api_key_name":"DeleteTopics","api_key":20,"correlation_id":1,"client_id":"kafka-go.test@Corsair (github.com/segmentio/kafka-go)"},"response":{"size":25,"correlation_id":1}}}}}]

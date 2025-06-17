@@ -1,0 +1,1 @@
+[{"timestamp":{"seconds":-6795364579,"nanos":129000000},"id":"AAAAAAAAAAAAAAAAAAAAAA==","dissected_protocol":12,"local_peer":{},"remote_peer":{},"payload":{"Payload":{"Kafka":{"request":{"size":33,"api_key_name":"SaslHandshake","api_key":17,"client_id":"test"},"response":{"size":18}}}}}]
