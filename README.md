@@ -11,7 +11,8 @@ exchanges and rejects protobuf serialization failures before writing expectation
 It does not rebuild native payloads from JSON, which loses their concrete Go types.
 An exchange the dissector could not decode, such as a response with no matching
 request, is recorded with its header fields, no body, and the failure as its
-summary. Conversations that emit no entries at all have no expectation file.
+summary behind the fixed `undissected: ` prefix. Conversations that emit no
+entries at all have no expectation file.
 
 Regenerate from the worker's `pkg/extensions/kafka` directory with
 `KUBESHARK_TEST=1 TEST_UPDATE=1 go test . -run '^TestDissect$'`.
